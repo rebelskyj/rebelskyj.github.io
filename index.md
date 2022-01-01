@@ -1,2 +1,1 @@
-This is my landing page; my blog is available [here](blog). Music scores
-are available [here](scores).
+This is my landing page; Music scores are available [here](scores). Music is available [here](music).
